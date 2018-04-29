@@ -8,8 +8,8 @@ libraries files are
 
 1-jade.jar
 
-2-MYSQL JDBC Driver
+2-mysql-connector-java-5.1.23-bin.jar
 
-3-crawler4j.jar
+3-crawler4j-4.5.0-SNAPSHOT-jar-with-dependencies.jar
 
 
